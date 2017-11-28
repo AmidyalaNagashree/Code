@@ -1,0 +1,7 @@
+CPU registers are the registers that vary in number and type, depending on the computer architecture. 
+ Restricting a child process to a subset of the parent's resources prevents any process from overloading the system by creating too many subprocesses. 
+ Cpu-scheduling information is that information which includes a process priority, pointers to scheduling queues, and any other scheduling parameters.
+CPU registers are the registers that vary in number and type, depending on the computer architecture. 
+ The objective of time sharing is to switch the CPU among processes so frequently that users can interact with each program while it is running.
+When a contextswitch occurs, the kernel saves the context of the old process in its PCB and loads the saved context of the new process scheduled to run.
+The objective of multiprogramming is to have some process running at all times, to maximize CPU utilization.

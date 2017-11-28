@@ -1,0 +1,250 @@
+Early computer systems allowed only one program to be executed at a time. 
+In contrast, current-day computer systems allow multiple programs to be loaded into memory and executed concurrently. 
+A process is the unit of work in a modern time-sharing system.
+The more complex the operating system is, the more it is expected to do on behalf of its users.
+By switching the CPU between processes, the operating system can make the computer more productive.
+A batch system executes jobs, whereas a time-shared system has USCI' programs, or tasks.
+Once a victim page is found, the page is replaced, and the new page is inserted in the circular queue in that position. 
+A process is a program in execution.
+A process is more than the program code, which is sometimes known as the text section.
+A program becomes a process when an executable file is loaded into memory.
+As a process executes, it changes state.
+The state of a process is defined in part by the current activity of that process.
+Each process is represented in the operating system by a process control block (PCB)-also called a task control block. 
+Program counter is a counter that indicates the address of the next instruction to be executed for this process. 
+CPU registers are the registers that vary in number and type, depending on the computer architecture. 
+CPU Registers include accumulators, index registers, stack pointers, and general-purpose registers, plus any condition-code information.
+When page replacement is called for, we use the same scheme as in the clock algorithm.
+The page number is used as an index into a page table.
+The objective of multiprogramming is to have some process running at all times, to maximize CPU utilization.
+A pointer to the page table is stored with the other register values (like the instruction counter) in the process control block.
+If there are more processes, the rest will have to wait until the CPU is free and can be rescheduled. 
+As processes enter the system, they are put into a job queue, which consists of all processes in the system.
+The processes that are residing in main memory and are ready and waiting to execute are kept on a list called the ready queue.
+A ready-queue header contains pointers to the first and final PCBs in the list. 
+Each PCB includes a pointer field that points to the next PCB in the ready queue.
+We replace the first page encountered in the lowest nonempty class. 
+The long-term scheduler, or job scheduler, selects processes from this pool and loads them into memory for execution.
+The difference between the user's view of memory and the actual physical memoryis reconciled by the address-translation hardware.
+The primary distinction between long-term and short-term schedulers lies in frequency of execution. 
+The free-frame buffer provides protection against the relatively poor, but simple, FIFO replacement algorithm. 
+The long-term scheduler executes much less frequently; minutes may separate the creation of one new process and the next.
+The long-term scheduler controls the degree of multiprogramming (the number of processes in memory). 
+One reason for allocating at least a minimum number of frames involves performance.
+With a local replacement strategy, the number of frames allocated to a process does not change. 
+An I/O-bound process is one that spends more of its time doing I/O than it spends doing computations. 
+A CPU-bound process, in contrast, generates I/O requests infrequently, using more of its time doing computations.
+The process is swapped out, and is later swapped in, by the medium-term scheduler.
+Interrupts cause the operating system to change a CPU from its current task and to run a kernel routine. 
+A process is thrashing if it is spending more time paging than executing.
+If CPU utilization is too low, we increase the degree of multiprogramming by introducing a new process to the system.
+Memory is central to the operation of a modern computer system.
+For instance, some processors (such as the Sun UltraSPARC) provide multiple sets of registers. 
+A process may create several new processes, via a create-process system calt during the course of execution.
+The creating process is called a parent process, and the new processes are called the children of that process.
+Each of these new processes may in turn create other processes, forming a tree of processes.
+In Solaris, the process at the top of the tree is the scheduled process, with pid of 0.
+The scheduled process creates several children processes-including pageout and flush. 
+inet is responsible for networking services such as telnet and ftpdt login is the process representing a user login screen.
+When a user logs in, dtlogin creates an X-windows session (Xsession), which in turns creates the sdt_shel process. 
+Memory consists of a large array of words or bytes, each with its own address.  
+The child process is a duplicate of the parent process (it has the same program and data as the parent).
+The child process has a new program loaded into it. 
+The limit register specifies the size of the range. 
+A new process is created by the fork() system call. 
+The new process consists of a copy of the address space of the original process.
+The base register holds the smallest legal physical memory address. 
+Main memory and the registers built into the processor itself are the only storage that the CPU can access directly.  
+Registers that are built into the CPU are generally accessible within one cycle of the CPU clock. 
+The value of pid for the child process is zero; that for the parent is an integer value greater than zero.
+The memory unit sees only a stream of memory addresses.
+If the parent terminates, however, all its children have assigned as their new parent the init process.
+After the instruction has been executed on the operands, results may be stored back in memory.
+The CPU fetches instructions from memory according to the value of the program counter.  
+Processes executing concurrently in the operating system may be either independent processes or cooperating processes.
+A process is independent if it cannot affect or be affected by the other processes executing in the system.
+Any process that does not share data with any other process is independent. 
+A process is cooperating if it can affect or be affected by the other processes executing in the system. 
+The page table contains the base address of each page in physical memory. 
+Cooperating processes require an inter process communication(IPc) mechanism that will allow them to exchange data and information.
+There are two fundamental models of interprocess communication: (1) shared memory and (2) message passing. 
+In the message passing model, communication takes place by means of messages exchanged between the cooperating processes. 
+Message passing is useful for exchanging smaller amounts of data, because no conflicts need be avoided.
+Shared memory allows maximum speed and convenience of communication, as it can be done at memory speeds when within a computer.
+Privileged instructions can be executed only in kernel mode.
+Interprocess communication using shared memory requires communicating processes to establish a region of shared memory. 
+Typically, a shared-memory region resides in the address space of the process creating the shared-memory segment. 
+Normally, the operating system tries to preventone process from accessing another process's memory.
+A producer process produces information that is consumed by a consumer process.
+The producer and consumer must be synchronized, so that the consumer does not try to consume an item that has not yet been produced. 
+The operating system, executing in kernel mode, is given unrestricted access to both operating system and users' memory.
+A message-passing facility provides atleast two operations: send(message) and receive(message). 
+Messages sent by a process can be of either fixed or variable size. 
+Processes that want to communicate must have a way to refer to each other. 
+Under direct communication, each process that wants to communicate must explicitly name the recipient or sender of the communication. 
+Whether communication is direct or indirect, messages exchanged by communicating processes reside in a temporary queue.
+A socket is defined as an endpoint for communication.
+A pair of processes communicating over a network employs a pair of sockets-one for each process. 
+A socket is identified by an IP address concatenated with a port number.
+In general, sockets use a client-server architecture.
+The server waits for incoming client requests by listening to a specified port. 
+Once a request is received, the server accepts a connection from the client socket to complete the connection. 
+When a client process initiates a request for a connection, it is assigned a port by the host computer. 
+A client communicates with the server by creating a socket and connecting to the port on which the server is listening.
+The IP address 127.0.0.1 is a special IP address known as the loop back. 
+When a computer refers to IP address 127.0.0.1, it is referring to itself.
+An important aspect of paging is the clear separation between the user's view of memory and the actual physical memory.
+The RPC was designed as a way to abstract the procedure-call mechanism for use between systems with network connections.
+A port is simply a number included at the start of a message packet.
+The semantics of RPCs allow a client to invoke a procedure on a remote host as it would invoke a procedure locally.
+The RPC system hides the details that allow communication to take place by providing a stub on the client side. 
+A program resides on a disk as a binary executable file. 
+RMI allows a thread to invoke a method on a remote object.
+Objects are considered remote if they reside in a different Java virtual machine (JVM). 
+A stub is a proxy for the remote object; it resides with the client.
+A thread is a basic unit of CPU utilization; it comprises a thread ID, a program counter, a register set, and a stack.
+A traditional (or heavy weight)process has a single thread of control.
+If a process has multiple threads of control, it can perform more than one task at a time.
+An application typically is implemented as a separate process with several threads of control. 
+Process creation is time consuming and resource intensive.
+Linux uses a kernel thread for managing the amount of free memory in the system.
+To be executed, the program must be brought into memory and placed Within a process.  
+By default, threads share the memory and the resources of the process to which they belong. 
+The process may be moved between disk and memory during its execution. 
+Allocating memory and resources for process creation is costly. 
+The processes on the disk that are waiting to be brought into memory for execution form the input queue.
+A single threaded process can only run on one CPU, no matter how many are available. 
+Multi threading on a multi-CPU machine increases concurrency.
+If you know at compile time where the process will reside in memory, then absolute code canbe generated.
+The many-to-one model maps many user-level threads to one kernel thread.
+An address generated by the CPU ;s commonly referred to as a logical address. 
+The one-to-one model maps each user thread to a kernel thread. 
+The many-to-many model multiplexes many user-level threads to a smaller or equal number of kernel threads. 
+A thread library provides the programmer an API for creating and managing threads. 
+The Win32 thread library is a kernel-level library available on Windows systems. 
+The Java thread API allows thread creation and management directly in Java programs. 
+Pthreads refers to the POSIX standard (JEEE 1003.1c) defining an API for thread creation and synchronization. 
+An address seen by the memory unit-that is, the one loaded into the memory-address register of the memory is the physical address.
+Thread cancellation is the task of terminating a thread before it has completed. 
+A thread that is to be cancelled is often referred to as the target thread. 
+A signal is used in UNIX systems to notify a process that a particular event has occurred. 
+The size of a page is typically a power of 2. 
+When a signal is generated by an event external to a running process, that process receives the signal asynchronously.
+Every signal has a default signal handler that is run by the kernel when handling that signal.
+Handling signals in single-threaded programs is straightforward; signals are always delivered to a process. 
+All routines are kept on disk in a relocatable load format.
+With dynamic loading, a routine is not loaded until it is called. 
+Servicing a request with an existing thread is usually faster than waiting to create a thread.
+The entire program and all data of a process must be in physical memory for the process to execute.
+Threads belonging to a process share the data of the process. 
+One scheme for communication between the user-thread library and the kernel is known as scheduler activation. 
+User-level threads are threads that are visible to the programmer and are unknown to the kernel. 
+To obtain better memory-space utilization, we can use dynamic loading. 
+A multi threaded process contains several different flows of control within the same address space. 
+In general, user-level threads are faster to create and manage than are kernel threads, as no intervention from the kernel is required. 
+CPU scheduling is the basis of multiprogrammed operating systems.
+By switching the CPU among processes, the operating system can make the computer more productive. 
+In a single-processor system, only one process can run at a time; any others must wait until the CPU is free and can be rescheduled.
+The objective of multiprogramming is to have some process running at all times, to maximize CPU utilization.
+When one process has to wait, the operating system takes the CPU away from that process and gives the CPU to another process. 
+Process execution consists of a cycle of CPU execution and I/O wait. 
+The advantage of dynamic loading is that an unused routine is never loaded. 
+An I/O-bound program typically has many short CPU bursts. 
+A CPU-bound process program mighthave a few long CPU bursts.
+Whenever the CPU becomes idle, the operating system must select one of the processes in the ready queue to be executed. 
+The scheduler selects a process from the processes in memory that are ready to execute and allocates the CPU to that process. 
+The records in the queues are generally process control blocks (PCBs) of the processes.
+The concept of dynamic linking is similar to that of dynamic loading. 
+The dispatcher is the module that gives control of the CPU to the process selected by the short-term scheduler.
+With dynamic linking, a stub is included in the in1age for each library routine reference. 
+CPU scheduling deals with the problem of deciding which of the processes in the ready queue is to be allocated the CPU.
+The FCFS scheduling algorithm is non preemptive. 
+Equal-priority processes are scheduled in FCFS order. 
+A solution to the problem of indefinite blockage of low-priority processes is aging. 
+Aging is a technique of gradually increasing the priority of processes that wait in the system for a long time. 
+When the stub is executed, it checks to see whether the needed routine is already in memory.
+The CPU is allocated to the selected process by the dispatcher. 
+Normally, a process that is swapped out will be swapped back into the same memory space it occupied previously.
+Round Robin scheduling allocates the CPU to the first process in the ready queue for q time units, where q is the time quantum. 
+Multilevel queue algorithms allow different algorithms to be used for different classes of processes. 
+Multilevel feedback queues allow processes to move from one queue to another. 
+A schedule in which each transaction is executed atomically is called a serial schedule. 
+If binding is done at assembly or load time! then the process cannot be easily moved to a different location.
+The backing store is commonly a fast disk. 
+Monitors provide the synchronization mechanism for sharing abstract data types. 
+A condition variable provides a method by which a monitor procedure can block its execution until it is signaled to continue. 
+Whenever the CPU scheduler decides to execute a process! it calls the dispatcher. 
+The dispatcher checks to see whether the next process in the queue is in memory. 
+To reduce the over head in searching the log after a system failure has occurred, we can use a checkpoint scheme. 
+To ensure serializability when the execution of several transactions overlaps, we must use a concurrency-control scheme. 
+A process requests resources; and if the resources are not available at that time, the process enters a waiting state. 
+If we want to swap a process, we must be sure that it is completely idle. 
+The main memory must accommodate both the operating system and the various user processes.
+In this contiguous memory allocation, each process is contained in a single contiguous section of memory. 
+The relocation register contains the value of the smallest physical address. 
+The page size (like the frame size) is defined by the hardware. 
+A deadlock detection algorithm must be invoked to determine whether a deadlock has occurred.
+The limit register contains the range of logical addresses. 
+Where preemption is used to deal with deadlocks, three issues must be addressed: selecting a victim, rollback, and starvation. 
+Every memory address generated by the CPU must be checked for legality and possibly mapped to a physical address. 
+MMU maps the logical address dynamically by adding the value in the relocation register. 
+Compaction involves shifting a program in memory in such a way that the program does not notice the change. 
+With relocation and limit registers, each logical address mustbe less than the limit register. 
+Sharing is a means of running many processes with a limited amount of memory, but shared programs and data must be designed carefully.
+If paging or segmentation is provided, different sections of a user program can be declared execute-only, read-only, or read-write.
+The segments for user code and user data are shared by all processes running in user mode.
+A demand-paging system is similar to a paging system with swapping where processes reside in secondary memory (usually a disk). 
+A lazy swapper never swaps a page into memory unless that page will be needed. 
+A swapper manipulates entire processes, whereas a pager is concerned with the individual pages of a process. 
+When a process is to be swapped in, the pager guesses which pages will be used before the process is swapped out again.
+Access to a page marked invalid causes a page-fault trap. 
+The relocation-register scheme provides an effective way to allow the operating-system size to change dynamically.
+Every address generated by the CPU is divided into two parts: a page number (p) and a page offset (d). 
+Page table has the ability to mark an entry invalid through a valid-invalid bit or special value of protection bits.
+Secondary memory holds those pages that are not present in main memory.
+Paging avoids the considerable problem of fitting memory chunks of varying sizes onto the backing store.
+A crucial requirement for demand paging is the need to be able to restart any instruction after a page fault.
+If the page fault occurs on the instruction fetch, we can restart by fetching the instruction again. 
+If a page fault occurs while we are fetching an operand, we must fetch and decode the instruction again and then fetch the operand. 
+Paging is a memory-management scheme that permits the physical address space of a process to be non-contiguous.  
+Obviously, as the number of frames available increases, the number of page faults decreases.
+A FIFO replacement algorithm associates with each page the time when that page was brought into memory. 
+An optimal page-replacement algorithm has the lowest page-fault rate of all algorithms and will never suffer from Belady's anomaly.
+LRU replacement associates with each page the time of that page's last use. 
+One solution to the problem of external fragmentation is compaction. 
+Virtual memory is a technique that enables us to map a large logical address space onto a smaller physical memory.
+Virtual memory allows us to run extremely large processes and to raise the degree of multiprogramming, increasing CPU utilization. 
+The first reference causes a page fault to the operating system.
+The operating-system kernel consults an internal table to determine where the page is located on the backing store.
+Both the first-fit and best-fit strategies for memory allocation suffer from external fragmentation.
+Kernel processes typically require memory to be allocated using pages that are physically contiguous. 
+The operating system abstracts from the physical properties ofits storage devices to define a logical storage unit, the file. 
+A file is a named collection of related information that is recorded on secondary storage.
+The instructions being executed must be in physical memory.
+To write a file, we make a system call specifying both the name of the file and the information to be written to the file.
+The operating system can order the input queue according to a scheduling algorithm. 
+The major task for the operating system is to map the logical file concept onto physical storage devices such as magnetic tape or disk.
+Each device in a file system keeps a volume table of contents or device directory listing the location of the files on the device.
+A single-level directory in a multi user system causes naming problems, since each file must have a unique name.
+When a process is allocated space, it is loaded into memory, and it can then compete for the CPU.  
+A tree-structured directory allows a user to create subdirectories to organize files. 
+Acyclic-graph directory structures enable users to share subdirectories and files but complicate searching and deletion.
+Like optimal replacement, LRL replacement does not suffer from Belady's anomaly. 
+When a page gets a second chance, its reference bit is cleared, and its arrival time is reset to the current time. 
+Main memory is the only large storage area (millions to billions of bytes) that the processor can access directly. 
+After we replace an active page with a new one, a fault occurs almost immediately to retrieve the active page.
+The child process will then modify its copied page and not the page belonging to the parent process.
+As processes enter the system, they are put into an input queue.
+Paging is added between the CPU and the memory in a computer system. 
+Page replacement is basic to demand paging. 
+When a system call is executed, it is treated by the hardware as a software interrupt. 
+If the page fault occurs on the instruction fetch, we can restart by- fetching the instruction again.
+Virtual memory involves the separation of logical memory as perceived by users from physical memory. 
+The virtual address space of a process refers to the logical (or virtual) view of how a process is stored in memory. 
+The file-server system provides a file-system interface where clients can create, update, read, and delete files.
+An operating system is software that manages the computer hardware as well as providing an environment for application programs to run. 
+One of the simplest methods for allocating memory is to divide memory into several fixed-sized partitions. 
+A lazy swapper never swaps a page into memory unless that page will be needed. 
+The main function of the command interpreter is to get and execute the next user-specified command.
+System calls provide an interface to the services made available by an operating system. 
+In the message-passing model, the communicating processes exchange messages with one another to transfer information.

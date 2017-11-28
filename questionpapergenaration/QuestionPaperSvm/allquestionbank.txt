@@ -1,0 +1,480 @@
+Early computer systems. allowed only one program. to be executed at a time. 
+Where do allowed only one program Early computer systems to be executed at a time ?
+Why is allowed only one program to be executed at a time Early computer systems ?
+What Early computer systems allowed only one program to be executed at a time ?
+Which one Early computer systems allowed only one program to be executed at a time ?
+What was Early computer systems to be executed at a time allowed only one program ?
+
+----------------------------------
+In contrt currentday computer systems. allow multiple programs to be loaded into memory. and executed concurrently. 
+How long allow multiple programs to be loaded into memory In contrt currentday computer systems and executed concurrently ?
+why did  allow multiple programs to be loaded into memory and executed concurrently In contrt currentday computer systems ?
+Why do allow multiple programs to be loaded into memory and executed concurrently In contrt currentday computer systems ?
+is it allow multiple programs to be loaded into memory and executed concurrently In contrt currentday computer systems ?
+How long In contrt currentday computer systems and executed concurrently allow multiple programs to be loaded into memory ?
+
+----------------------------------
+A process is the unit of work. in a modern timesharing system.
+Which is A process is the unit of work in a modern timesharing system ?
+What A process is the unit of work in a modern timesharing system ?
+what is A process is the unit of work in a modern timesharing system ?
+When will  A process is the unit of work in a modern timesharing system ?
+What time A process is the unit of work in a modern timesharing system ?
+
+----------------------------------
+The more complex the operating system. is the more it is expected. to do on behalf of its users.
+What The more complex the operating system is the more it is expected to do on behalf of its users ?
+Where do The more complex the operating system is the more it is expected to do on behalf of its users ?
+Where do The more complex the operating system is the more it is expected to do on behalf of its users ?
+is it to do on behalf of its users The more complex the operating system is the more it is expected ?
+What will to do on behalf of its users The more complex the operating system is the more it is expected ?
+
+----------------------------------
+By switching the CPU between processes. the operating system. can make the computer more productive.
+When did can make the computer more productive By switching the CPU between processes the operating system ?
+What would By switching the CPU between processes can make the computer more productive the operating system ?
+What can make the computer more productive the operating system By switching the CPU between processes ?
+why did  the operating system can make the computer more productive By switching the CPU between processes ?
+What can make the computer more productive the operating system By switching the CPU between processes ?
+
+----------------------------------
+A batch system executes jobs. where a timeshared system h USCI programs or tks.
+How often A batch system executes jobs where a timeshared system h USCI programs or tks ?
+How far A batch system executes jobs where a timeshared system h USCI programs or tks ?
+When did A batch system executes jobs where a timeshared system h USCI programs or tks ?
+When will  where a timeshared system h USCI programs or tks A batch system executes jobs ?
+Why do where a timeshared system h USCI programs or tks A batch system executes jobs ?
+
+----------------------------------
+Once a victim page is found. the page is replaced and the new page is inserted. in the circular queue in that position. 
+How much in the circular queue in that position Once a victim page is found the page is replaced and the new page is inserted ?
+Which one Once a victim page is found the page is replaced and the new page is inserted in the circular queue in that position ?
+Which one in the circular queue in that position the page is replaced and the new page is inserted Once a victim page is found ?
+Which one the page is replaced and the new page is inserted Once a victim page is found in the circular queue in that position ?
+What time in the circular queue in that position the page is replaced and the new page is inserted Once a victim page is found ?
+
+----------------------------------
+A process is a program in execution.
+Why is A process is a program in execution ?
+What will A process is a program in execution ?
+Why do A process is a program in execution ?
+What time A process is a program in execution ?
+How much A process is a program in execution ?
+
+----------------------------------
+A process is more than the program code. which is sometimes known  the text section.
+What which is sometimes known  the text section A process is more than the program code ?
+What was which is sometimes known  the text section A process is more than the program code ?
+Where do A process is more than the program code which is sometimes known  the text section ?
+Why is which is sometimes known  the text section A process is more than the program code ?
+What A process is more than the program code which is sometimes known  the text section ?
+
+----------------------------------
+A program becomes a process. when an executable file is loaded into memory.
+Where do A program becomes a process when an executable file is loaded into memory ?
+Where do when an executable file is loaded into memory A program becomes a process ?
+What would A program becomes a process when an executable file is loaded into memory ?
+When will  when an executable file is loaded into memory A program becomes a process ?
+Which one when an executable file is loaded into memory A program becomes a process ?
+
+----------------------------------
+As a process executes. it changes state.
+What would it changes state As a process executes ?
+How far it changes state As a process executes ?
+Why do it changes state As a process executes ?
+why did  it changes state As a process executes ?
+What was it changes state As a process executes ?
+
+----------------------------------
+The state of a process .is defined in part by the current activity of that process.
+why did  defined in part by the current activity of that process The state of a process is ?
+Why do defined in part by the current activity of that process The state of a process is ?
+What kind The state of a process is defined in part by the current activity of that process ?
+What kind defined in part by the current activity of that process The state of a process is ?
+Where do The state of a process is defined in part by the current activity of that process ?
+
+----------------------------------
+Each process is represented in the operating system .by a process control block .PCBalso called a tk control block. 
+When will  Each process is represented in the operating system by a process control block PCBalso called a tk control block ?
+When did a process control block PCBalso called a tk control block Each process is represented in the operating system by ?
+when is a process control block PCBalso called a tk control block Each process is represented in the operating system by ?
+What have a process control block PCBalso called a tk control block Each process is represented in the operating system by ?
+why did  a process control block PCBalso called a tk control block Each process is represented in the operating system by ?
+
+----------------------------------
+Program counter is a counter .that indicates the address of the next instruction to be executed. for this process. 
+where is indicates the address of the next instruction to be executed for this process Program counter is a counter that ?
+why did  for this process Program counter is a counter that indicates the address of the next instruction to be executed ?
+What have Program counter is a counter that indicates the address of the next instruction to be executed for this process ?
+How many Program counter is a counter that for this process indicates the address of the next instruction to be executed ?
+How many Program counter is a counter that indicates the address of the next instruction to be executed for this process ?
+
+----------------------------------
+CPU registers are the registers .that vary in number and type. depending on the computer architecture. 
+Why is CPU registers are the registers that vary in number and type depending on the computer architecture ?
+What kind depending on the computer architecture CPU registers are the registers that vary in number and type ?
+How often CPU registers are the registers that depending on the computer architecture vary in number and type ?
+Why is vary in number and type depending on the computer architecture CPU registers are the registers that ?
+What kind CPU registers are the registers that depending on the computer architecture vary in number and type ?
+
+----------------------------------
+CPU Registers include accumulators index registers stack pointers and generalpurpose registers. plus any conditioncode information.
+How many plus any conditioncode information CPU Registers include accumulators index registers stack pointers and generalpurpose registers ?
+why did  plus any conditioncode information CPU Registers include accumulators index registers stack pointers and generalpurpose registers ?
+When did CPU Registers include accumulators index registers stack pointers and generalpurpose registers plus any conditioncode information ?
+What kind plus any conditioncode information CPU Registers include accumulators index registers stack pointers and generalpurpose registers ?
+What have plus any conditioncode information CPU Registers include accumulators index registers stack pointers and generalpurpose registers ?
+
+----------------------------------
+When page replacement is called.for we use the same scheme.  in the clock algorithm.
+Which is When page replacement is calledfor we use the same scheme in the clock algorithm ?
+What will When page replacement is calledfor in the clock algorithm we use the same scheme ?
+why did  When page replacement is calledfor in the clock algorithm we use the same scheme ?
+How far we use the same scheme When page replacement is calledfor in the clock algorithm ?
+Which one we use the same scheme in the clock algorithm When page replacement is calledfor ?
+
+----------------------------------
+The page number is used  an index. into a page table.
+When will  into a page table The page number is used  an index ?
+What was into a page table The page number is used  an index ?
+How many The page number is used  an index into a page table ?
+Why is The page number is used  an index into a page table ?
+why did  The page number is used  an index into a page table ?
+
+----------------------------------
+The objective of multiprogramming. is to have some process running at all times. to maximize CPU utilization.
+where is The objective of multiprogramming is to have some process running at all times to maximize CPU utilization ?
+How often to maximize CPU utilization The objective of multiprogramming is to have some process running at all times ?
+What have The objective of multiprogramming is to have some process running at all times to maximize CPU utilization ?
+Which one The objective of multiprogramming is to have some process running at all times to maximize CPU utilization ?
+is it to maximize CPU utilization The objective of multiprogramming is to have some process running at all times ?
+
+----------------------------------
+A pointer to the page table. is stored with the other register. values like the instruction counter in the process control block.
+Which one values like the instruction counter in the process control block A pointer to the page table is stored with the other register ?
+How much values like the instruction counter in the process control block is stored with the other register A pointer to the page table ?
+What kind is stored with the other register values like the instruction counter in the process control block A pointer to the page table ?
+Where do is stored with the other register values like the instruction counter in the process control block A pointer to the page table ?
+What have A pointer to the page table is stored with the other register values like the instruction counter in the process control block ?
+
+----------------------------------
+If there are more processes. the rest will have to wait until .the CPU is free and can be rescheduled. 
+Where do the rest will have to wait until the CPU is free and can be rescheduled If there are more processes ?
+Why do If there are more processes CPU is free and can be rescheduled the rest will have to wait until the ?
+What was CPU is free and can be rescheduled If there are more processes the rest will have to wait until the ?
+Where do the rest will have to wait until the If there are more processes CPU is free and can be rescheduled ?
+How long the rest will have to wait until the CPU is free and can be rescheduled If there are more processes ?
+
+----------------------------------
+As processes enter the system. they are put into a job queue. which consists of all processes in the system.
+why did  As processes enter the system which consists of all processes in the system they are put into a job queue ?
+why did  they are put into a job queue which consists of all processes in the system As processes enter the system ?
+why did  which consists of all processes in the system As processes enter the system they are put into a job queue ?
+Where do As processes enter the system they are put into a job queue which consists of all processes in the system ?
+When did As processes enter the system they are put into a job queue which consists of all processes in the system ?
+
+----------------------------------
+The processes that are residing in main memory. and are ready and waiting to execute. are kept on a list called the ready queue.
+What kind and are ready and waiting to execute The processes that are residing in main memory are kept on a list called the ready queue ?
+Why is and are ready and waiting to execute The processes that are residing in main memory are kept on a list called the ready queue ?
+What have and are ready and waiting to execute The processes that are residing in main memory are kept on a list called the ready queue ?
+Which one are kept on a list called the ready queue and are ready and waiting to execute The processes that are residing in main memory ?
+where is The processes that are residing in main memory and are ready and waiting to execute are kept on a list called the ready queue ?
+
+----------------------------------
+A readyqueue header contains pointers. to the first and final PCBs in the list. 
+Where do to the first and final PCBs in the list A readyqueue header contains pointers ?
+What was A readyqueue header contains pointers to the first and final PCBs in the list ?
+What was to the first and final PCBs in the list A readyqueue header contains pointers ?
+when is to the first and final PCBs in the list A readyqueue header contains pointers ?
+Why do A readyqueue header contains pointers to the first and final PCBs in the list ?
+
+----------------------------------
+Each PCB includes a pointer field .that points to the next PCB in the ready queue.
+why did  Each PCB includes a pointer field that points to the next PCB in the ready queue ?
+where is points to the next PCB in the ready queue Each PCB includes a pointer field that ?
+why did  points to the next PCB in the ready queue Each PCB includes a pointer field that ?
+How many Each PCB includes a pointer field that points to the next PCB in the ready queue ?
+what is points to the next PCB in the ready queue Each PCB includes a pointer field that ?
+
+----------------------------------
+We replace the first page encountered .in the lowest nonempty cls. 
+is it We replace the first page encountered in the lowest nonempty cls ?
+What would We replace the first page encountered in the lowest nonempty cls ?
+is it We replace the first page encountered in the lowest nonempty cls ?
+Where do We replace the first page encountered in the lowest nonempty cls ?
+when is We replace the first page encountered in the lowest nonempty cls ?
+
+----------------------------------
+The longterm scheduler or job scheduler. selects processes from this pool .and loads them into memory for execution.
+When will  selects processes from this pool and The longterm scheduler or job scheduler loads them into memory for execution ?
+What would loads them into memory for execution The longterm scheduler or job scheduler selects processes from this pool and ?
+How far selects processes from this pool and loads them into memory for execution The longterm scheduler or job scheduler ?
+What time loads them into memory for execution The longterm scheduler or job scheduler selects processes from this pool and ?
+What was loads them into memory for execution selects processes from this pool and The longterm scheduler or job scheduler ?
+
+----------------------------------
+The difference between the users view of memory .and the actual physical memory .is reconciled by the addresstranslation hardware.
+Which is reconciled by the addresstranslation hardware The difference between the users view of memory and the actual physical memory is ?
+What was reconciled by the addresstranslation hardware The difference between the users view of memory and the actual physical memory is ?
+How many The difference between the users view of memory and the actual physical memory is reconciled by the addresstranslation hardware ?
+What will reconciled by the addresstranslation hardware The difference between the users view of memory and the actual physical memory is ?
+When will  The difference between the users view of memory and the actual physical memory is reconciled by the addresstranslation hardware ?
+
+----------------------------------
+The primary distinction between longterm and shortterm schedulers .lies in frequency of execution. 
+How much The primary distinction between longterm and shortterm schedulers lies in frequency of execution ?
+When did The primary distinction between longterm and shortterm schedulers lies in frequency of execution ?
+where is The primary distinction between longterm and shortterm schedulers lies in frequency of execution ?
+When will  The primary distinction between longterm and shortterm schedulers lies in frequency of execution ?
+when is The primary distinction between longterm and shortterm schedulers lies in frequency of execution ?
+
+----------------------------------
+The freeframe buffer provides protection .against the relatively poor. but simple FIFO replacement algorithm. 
+Which is The freeframe buffer provides protection against the relatively poor but simple FIFO replacement algorithm ?
+How far but simple FIFO replacement algorithm The freeframe buffer provides protection against the relatively poor ?
+what is but simple FIFO replacement algorithm The freeframe buffer provides protection against the relatively poor ?
+What will but simple FIFO replacement algorithm The freeframe buffer provides protection against the relatively poor ?
+How often but simple FIFO replacement algorithm The freeframe buffer provides protection against the relatively poor ?
+
+----------------------------------
+The longterm scheduler executes much less frequently; minutes may separate the creation of one new process and the next.
+How much The longterm scheduler executes much less frequently; minutes may separate the creation of one new process and the next ?
+when is The longterm scheduler executes much less frequently; minutes may separate the creation of one new process and the next ?
+Why is The longterm scheduler executes much less frequently; minutes may separate the creation of one new process and the next ?
+What time The longterm scheduler executes much less frequently; minutes may separate the creation of one new process and the next ?
+when is The longterm scheduler executes much less frequently; minutes may separate the creation of one new process and the next ?
+
+----------------------------------
+The longterm scheduler controls. the degree of multiprogramming the number of processes in memory. 
+why did  The longterm scheduler controls the degree of multiprogramming the number of processes in memory ?
+What would the degree of multiprogramming the number of processes in memory The longterm scheduler controls ?
+where is the degree of multiprogramming the number of processes in memory The longterm scheduler controls ?
+What kind The longterm scheduler controls the degree of multiprogramming the number of processes in memory ?
+When will  the degree of multiprogramming the number of processes in memory The longterm scheduler controls ?
+
+----------------------------------
+One reon for allocating. at let a minimum number of frames involves performance.
+When did at let a minimum number of frames involves performance One reon for allocating ?
+When did One reon for allocating at let a minimum number of frames involves performance ?
+when is at let a minimum number of frames involves performance One reon for allocating ?
+is it at let a minimum number of frames involves performance One reon for allocating ?
+why did  at let a minimum number of frames involves performance One reon for allocating ?
+
+----------------------------------
+With a local replacement strategy. the number of frames allocated to a process does not change. 
+when is With a local replacement strategy the number of frames allocated to a process does not change ?
+How long the number of frames allocated to a process does not change With a local replacement strategy ?
+Why is the number of frames allocated to a process does not change With a local replacement strategy ?
+what is With a local replacement strategy the number of frames allocated to a process does not change ?
+How long the number of frames allocated to a process does not change With a local replacement strategy ?
+
+----------------------------------
+An I/Obound process is one that spends more of its time. doing I/O than it spends doing computations. 
+Where do An I/Obound process is one that spends more of its time doing I/O than it spends doing computations ?
+what is An I/Obound process is one that spends more of its time doing I/O than it spends doing computations ?
+How far An I/Obound process is one that spends more of its time doing I/O than it spends doing computations ?
+What kind doing I/O than it spends doing computations An I/Obound process is one that spends more of its time ?
+What have An I/Obound process is one that spends more of its time doing I/O than it spends doing computations ?
+
+----------------------------------
+A CPUbound process in contrt generates I/O requests infrequently. using more of its time doing computations.
+What using more of its time doing computations A CPUbound process in contrt generates I/O requests infrequently ?
+when is using more of its time doing computations A CPUbound process in contrt generates I/O requests infrequently ?
+What will A CPUbound process in contrt generates I/O requests infrequently using more of its time doing computations ?
+When did A CPUbound process in contrt generates I/O requests infrequently using more of its time doing computations ?
+Where do using more of its time doing computations A CPUbound process in contrt generates I/O requests infrequently ?
+
+----------------------------------
+The process is swapped out. and is later swapped in. by the mediumterm scheduler.
+How much and is later swapped in by the mediumterm scheduler The process is swapped out ?
+What have by the mediumterm scheduler and is later swapped in The process is swapped out ?
+What will and is later swapped in The process is swapped out by the mediumterm scheduler ?
+What time by the mediumterm scheduler The process is swapped out and is later swapped in ?
+why did  and is later swapped in The process is swapped out by the mediumterm scheduler ?
+
+----------------------------------
+Interrupts cause the operating system .to change a CPU from its current tk. and to run a kernel routine. 
+What was change a CPU from its current tk Interrupts cause the operating system to and to run a kernel routine ?
+How far Interrupts cause the operating system to change a CPU from its current tk and to run a kernel routine ?
+what is Interrupts cause the operating system to and to run a kernel routine change a CPU from its current tk ?
+What will Interrupts cause the operating system to change a CPU from its current tk and to run a kernel routine ?
+Why do and to run a kernel routine change a CPU from its current tk Interrupts cause the operating system to ?
+
+----------------------------------
+A process is thrhing .if it is spending more time paging than executing.
+why did  A process is thrhing if it is spending more time paging than executing ?
+How long A process is thrhing if it is spending more time paging than executing ?
+How long A process is thrhing if it is spending more time paging than executing ?
+Why is A process is thrhing if it is spending more time paging than executing ?
+What will A process is thrhing if it is spending more time paging than executing ?
+
+----------------------------------
+If CPU utilization is too low we incree the degree of multiprogramming .by introducing a new process to the system.
+When did If CPU utilization is too low we incree the degree of multiprogramming by introducing a new process to the system ?
+Why do introducing a new process to the system If CPU utilization is too low we incree the degree of multiprogramming by ?
+How much If CPU utilization is too low we incree the degree of multiprogramming by introducing a new process to the system ?
+What kind If CPU utilization is too low we incree the degree of multiprogramming by introducing a new process to the system ?
+What was introducing a new process to the system If CPU utilization is too low we incree the degree of multiprogramming by ?
+
+----------------------------------
+Memory is central to the operation .of a modern computer system.
+when is Memory is central to the operation of a modern computer system ?
+Which is Memory is central to the operation of a modern computer system ?
+what is Memory is central to the operation of a modern computer system ?
+what is Memory is central to the operation of a modern computer system ?
+what is Memory is central to the operation of a modern computer system ?
+
+----------------------------------
+For instance. some processors such  the Sun UltraSPARC provide multiple sets of registers. 
+What kind some processors such  the Sun UltraSPARC provide multiple sets of registers For instance ?
+Why is For instance some processors such  the Sun UltraSPARC provide multiple sets of registers ?
+What time For instance some processors such  the Sun UltraSPARC provide multiple sets of registers ?
+where is some processors such  the Sun UltraSPARC provide multiple sets of registers For instance ?
+Which one For instance some processors such  the Sun UltraSPARC provide multiple sets of registers ?
+
+----------------------------------
+A process may create several new processes. via a createprocess system calt. during the course of execution.
+What have A process may create several new processes via a createprocess system calt during the course of execution ?
+What time A process may create several new processes during the course of execution via a createprocess system calt ?
+Which is A process may create several new processes via a createprocess system calt during the course of execution ?
+Why is during the course of execution A process may create several new processes via a createprocess system calt ?
+what is during the course of execution via a createprocess system calt A process may create several new processes ?
+
+----------------------------------
+The creating process. is called a parent process. and the new processes are called the children of that process.
+when is The creating process is called a parent process and the new processes are called the children of that process ?
+What will The creating process is called a parent process and the new processes are called the children of that process ?
+where is and the new processes are called the children of that process The creating process is called a parent process ?
+is it The creating process is called a parent process and the new processes are called the children of that process ?
+What and the new processes are called the children of that process The creating process is called a parent process ?
+
+----------------------------------
+Each of these .new processes may in turn create other processes. forming a tree of processes.
+What kind forming a tree of processes Each of these new processes may in turn create other processes ?
+How often forming a tree of processes Each of these new processes may in turn create other processes ?
+What will Each of these new forming a tree of processes processes may in turn create other processes ?
+How many Each of these new processes may in turn create other processes forming a tree of processes ?
+Which is forming a tree of processes processes may in turn create other processes Each of these new ?
+
+----------------------------------
+In Solaris. the process at the top of the tree is the scheduled process. with pid of 0.
+How far In Solaris the process at the top of the tree is the scheduled process with pid of 0 ?
+Which one In Solaris the process at the top of the tree is the scheduled process with pid of 0 ?
+where is In Solaris the process at the top of the tree is the scheduled process with pid of 0 ?
+is it with pid of 0 In Solaris the process at the top of the tree is the scheduled process ?
+When will  In Solaris the process at the top of the tree is the scheduled process with pid of 0 ?
+
+----------------------------------
+The scheduled process creates several children processes.including pageout and flush. 
+What have The scheduled process creates several children processesincluding pageout and flush ?
+What kind pageout and flush The scheduled process creates several children processesincluding ?
+What would The scheduled process creates several children processesincluding pageout and flush ?
+Why do pageout and flush The scheduled process creates several children processesincluding ?
+How long pageout and flush The scheduled process creates several children processesincluding ?
+
+----------------------------------
+inet is responsible for networking services .such  telnet and ftpdt .login is the process representing a user login screen.
+How long telnet and ftpdt login is the process representing a user login screen inet is responsible for networking services such ?
+why did  inet is responsible for networking services such telnet and ftpdt login is the process representing a user login screen ?
+What have telnet and ftpdt login is the process representing a user login screen inet is responsible for networking services such ?
+what is inet is responsible for networking services such telnet and ftpdt login is the process representing a user login screen ?
+when is inet is responsible for networking services such telnet and ftpdt login is the process representing a user login screen ?
+
+----------------------------------
+When a user logs in. dtlogin creates an Xwindows session Xsession. which in turns creates the sdt_shel process. 
+Why do which in turns creates the sdt_shel process dtlogin creates an Xwindows session Xsession When a user logs in ?
+Why is which in turns creates the sdt_shel process dtlogin creates an Xwindows session Xsession When a user logs in ?
+What was dtlogin creates an Xwindows session Xsession When a user logs in which in turns creates the sdt_shel process ?
+why did  When a user logs in which in turns creates the sdt_shel process dtlogin creates an Xwindows session Xsession ?
+How many which in turns creates the sdt_shel process dtlogin creates an Xwindows session Xsession When a user logs in ?
+
+----------------------------------
+Memory consists.of a large array of words or bytes. each with its own address.  
+Which is each with its own address a large array of words or bytes Memory consistsof ?
+why did  a large array of words or bytes Memory consistsof each with its own address ?
+when is each with its own address a large array of words or bytes Memory consistsof ?
+why did  Memory consistsof a large array of words or bytes each with its own address ?
+when is each with its own address Memory consistsof a large array of words or bytes ?
+
+----------------------------------
+The child process. is a duplicate of the parent process. it h the same program and data  the parent.
+where is it h the same program and data  the parent The child process is a duplicate of the parent process ?
+Which one The child process is a duplicate of the parent process it h the same program and data  the parent ?
+where is The child process is a duplicate of the parent process it h the same program and data  the parent ?
+How far it h the same program and data  the parent The child process is a duplicate of the parent process ?
+When will  The child process is a duplicate of the parent process it h the same program and data  the parent ?
+
+----------------------------------
+The child process. h a new program. loaded into it. 
+what is loaded into it The child process h a new program ?
+What will The child process loaded into it h a new program ?
+Which one The child process h a new program loaded into it ?
+when is loaded into it h a new program The child process ?
+How much h a new program loaded into it The child process ?
+
+----------------------------------
+The limit register .specifies the size of the range. 
+Why is The limit register specifies the size of the range ?
+How often The limit register specifies the size of the range ?
+is it The limit register specifies the size of the range ?
+is it The limit register specifies the size of the range ?
+What was The limit register specifies the size of the range ?
+
+----------------------------------
+A new process is created. by the fork system call. 
+Which is A new process is created by the fork system call ?
+when is A new process is created by the fork system call ?
+Why do A new process is created by the fork system call ?
+How far by the fork system call A new process is created ?
+What by the fork system call A new process is created ?
+
+----------------------------------
+The new process consists. of a copy of the address space of the original process.
+Where do The new process consists of a copy of the address space of the original process ?
+How many The new process consists of a copy of the address space of the original process ?
+What would The new process consists of a copy of the address space of the original process ?
+What would The new process consists of a copy of the address space of the original process ?
+is it The new process consists of a copy of the address space of the original process ?
+
+----------------------------------
+The be register holds. the smallest legal physical memory address. 
+is it the smallest legal physical memory address The be register holds ?
+what is the smallest legal physical memory address The be register holds ?
+When will  The be register holds the smallest legal physical memory address ?
+Which one the smallest legal physical memory address The be register holds ?
+How far The be register holds the smallest legal physical memory address ?
+
+----------------------------------
+Main memory and the registers built into the processor itself .are the only storage that the CPU can access directly.  
+why did  Main memory and the registers built into the processor itself are the only storage that the CPU can access directly ?
+What would Main memory and the registers built into the processor itself are the only storage that the CPU can access directly ?
+Where do Main memory and the registers built into the processor itself are the only storage that the CPU can access directly ?
+why did  Main memory and the registers built into the processor itself are the only storage that the CPU can access directly ?
+What would Main memory and the registers built into the processor itself are the only storage that the CPU can access directly ?
+
+----------------------------------
+Registers that are built into the CPU. are generally accessible within one cycle of the CPU clock. 
+What kind are generally accessible within one cycle of the CPU clock Registers that are built into the CPU ?
+How long Registers that are built into the CPU are generally accessible within one cycle of the CPU clock ?
+When did Registers that are built into the CPU are generally accessible within one cycle of the CPU clock ?
+What will Registers that are built into the CPU are generally accessible within one cycle of the CPU clock ?
+when is Registers that are built into the CPU are generally accessible within one cycle of the CPU clock ?
+
+----------------------------------
+The value of pid for the child process is zero.; that for the parent is an integer value greater than zero.
+is it The value of pid for the child process is zero; that for the parent is an integer value greater than zero ?
+Why is The value of pid for the child process is zero; that for the parent is an integer value greater than zero ?
+How long The value of pid for the child process is zero; that for the parent is an integer value greater than zero ?
+What have The value of pid for the child process is zero; that for the parent is an integer value greater than zero ?
+Why is The value of pid for the child process is zero; that for the parent is an integer value greater than zero ?
+
+----------------------------------
+The memory unit .sees only a stream of. memory addresses.
+Where do only a stream of memory addresses The memory unit sees ?
+How often only a stream of The memory unit sees memory addresses ?
+What kind only a stream of memory addresses The memory unit sees ?
+How long memory addresses only a stream of The memory unit sees ?
+is it only a stream of The memory unit sees memory addresses ?
+
+----------------------------------

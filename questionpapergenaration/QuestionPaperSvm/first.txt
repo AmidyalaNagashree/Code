@@ -1,0 +1,7 @@
+CPU registers are the registers that vary in number and type, depending on the computer architecture. 
+Each process is represented in the operating systemby a process control block (PCB)-also called a task control block. 
+If it takes 10 milliseconds to decide to execute a process for 100 milliseconds, then 10/(100 + 10) = 9 percent of the CPU is being used (wasted)simply for scheduling the work. 
+CPU registers are the registers that vary in number and type, depending on the computer architecture. 
+ A process is the unit of work in a modern time-sharing system.
+When a contextswitch occurs, the kernel saves the context of the old process in its PCB and loads the saved context of the new process scheduled to run.
+The objective of multiprogramming is to have some process running at all times, to maximize CPU utilization.

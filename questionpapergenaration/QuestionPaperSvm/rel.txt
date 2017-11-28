@@ -1,0 +1,60 @@
+computer systems program executed time
+computer systems programs memory executed
+process work modern time sharing system
+complex operating system users
+switching CPU processes operating system computer productive
+system executes jobs time shared system programs tasks
+victim page circular queue
+process program execution
+process program code text section
+program process executable memory
+process executes state
+state process activity
+process operating system control block task
+Program counter instruction executed process
+CPU registers computer architecture
+CPU Registers accumulators index stack pointers registers condition codes
+page clock algorithm
+page index table
+multiprogramming process times CPU utilization
+pointer page table register process control block
+processes CPU rescheduled
+job queue processes system
+processes memory execute queue
+ready queue header pointers PCBs
+PCB pointer points queue
+page encountered nonempty class
+long term scheduler job processes pool loads memory execution
+user's memory physical memory translation hardware
+primary long short term schedulers frequency execution
+frame buffer protection poor simple FIFO algorithm 
+long term scheduler executes frequently process
+long term scheduler multiprogramming
+allocating frames performance
+local strategy frames process
+bound process time I/O computations
+CPU bound process I/O infrequently time computations
+process swapped medium term scheduler
+Interrupts operating system CPU task kernel routine
+process thrashing time paging executing
+CPU utilization multiprogramming process system
+Memory central operation computer system
+processors registers
+process processes system execution
+process parent processes children
+processes create processes tree
+Solaris process tree scheduled pid
+scheduled process children processes pageout flush
+inet networking services telnet ftpdt login process screen
+user logs dtlogin X-windows session sdt_shel process
+Memory words bytes address
+child process duplicate parent program data
+child process program loaded
+register size range
+process fork system call
+process address space original process
+base register legal physical memory address
+Main memory registers processor storage CPU access
+Registers CPU cycle clock
+pid child process parent
+memory stream memory addresses

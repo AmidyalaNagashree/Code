@@ -1,0 +1,60 @@
+Early computer systems. allowed only one program. to be executed at a time. 
+In contrast, current-day computer systems. allow multiple programs to be loaded into memory. and executed concurrently. 
+A process is the unit of work. in a modern time-sharing system.
+The more complex the operating system. is, the more it is expected. to do on behalf of its users.
+By switching the CPU between processes,. the operating system. can make the computer more productive.
+A batch system executes jobs., whereas a time-shared system has USCI' programs, or tasks.
+Once a victim page is found., the page is replaced, and the new page is inserted. in the circular queue in that position. 
+A process is a program in execution.
+A process is more than the program code., which is sometimes known as the text section.
+A program becomes a process. when an executable file is loaded into memory.
+As a process executes., it changes state.
+The state of a process .is defined in part by the current activity of that process.
+Each process is represented in the operating system .by a process control block .(PCB)-also called a task control block. 
+Program counter is a counter .that indicates the address of the next instruction to be executed. for this process. 
+CPU registers are the registers .that vary in number and type., depending on the computer architecture. 
+CPU Registers include accumulators, index registers, stack pointers, and general-purpose registers,. plus any condition-code information.
+When page replacement is called.for, we use the same scheme. as in the clock algorithm.
+The page number is used as an index. into a page table.
+The objective of multiprogramming. is to have some process running at all times., to maximize CPU utilization.
+A pointer to the page table. is stored with the other register. values (like the instruction counter) in the process control block.
+If there are more processes., the rest will have to wait until .the CPU is free and can be rescheduled. 
+As processes enter the system., they are put into a job queue., which consists of all processes in the system.
+The processes that are residing in main memory. and are ready and waiting to execute. are kept on a list called the ready queue.
+A ready-queue header contains pointers. to the first and final PCBs in the list. 
+Each PCB includes a pointer field .that points to the next PCB in the ready queue.
+We replace the first page encountered .in the lowest nonempty class. 
+The long-term scheduler, or job scheduler., selects processes from this pool .and loads them into memory for execution.
+The difference between the user's view of memory .and the actual physical memory .is reconciled by the address-translation hardware.
+The primary distinction between long-term and short-term schedulers .lies in frequency of execution. 
+The free-frame buffer provides protection .against the relatively poor., but simple, FIFO replacement algorithm. 
+The long-term scheduler executes much less frequently,; minutes may separate the creation of one new process and the next.
+The long-term scheduler controls. the degree of multiprogramming (the number of processes in memory). 
+One reason for allocating. at least a minimum number of frames involves performance.
+With a local replacement strategy., the number of frames allocated to a process does not change. 
+An I/O-bound process is one that spends more of its time. doing I/O than it spends doing computations. 
+A CPU-bound process, in contrast, generates I/O requests infrequently., using more of its time doing computations.
+The process is swapped out., and is later swapped in., by the medium-term scheduler.
+Interrupts cause the operating system .to change a CPU from its current task. and to run a kernel routine. 
+A process is thrashing .if it is spending more time paging than executing.
+If CPU utilization is too low, we increase the degree of multiprogramming .by introducing a new process to the system.
+Memory is central to the operation .of a modern computer system.
+For instance,. some processors (such as the Sun UltraSPARC) provide multiple sets of registers. 
+A process may create several new processes., via a create-process system calt. during the course of execution.
+The creating process. is called a parent process., and the new processes are called the children of that process.
+Each of these .new processes may in turn create other processes., forming a tree of processes.
+In Solaris,. the process at the top of the tree is the scheduled process., with pid of 0.
+The scheduled process creates several children processes.-including pageout and flush. 
+inet is responsible for networking services .such as telnet and ftpdt .login is the process representing a user login screen.
+When a user logs in., dtlogin creates an X-windows session (Xsession)., which in turns creates the sdt_shel process. 
+Memory consists.of a large array of words or bytes., each with its own address.  
+The child process. is a duplicate of the parent process. (it has the same program and data as the parent).
+The child process. has a new program. loaded into it. 
+The limit register .specifies the size of the range. 
+A new process is created. by the fork() system call. 
+The new process consists. of a copy of the address space of the original process.
+The base register holds. the smallest legal physical memory address. 
+Main memory and the registers built into the processor itself .are the only storage that the CPU can access directly.  
+Registers that are built into the CPU. are generally accessible within one cycle of the CPU clock. 
+The value of pid for the child process is zero.; that for the parent is an integer value greater than zero.
+The memory unit .sees only a stream of. memory addresses.
